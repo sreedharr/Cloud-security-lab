@@ -1,0 +1,8 @@
+Steps
+
+1. Run the xen hypervisor
+2. Install libvirt-dev
+3. compile the code using command
+	gcc -o lib lib.c -lvert
+4. to run the program 
+	./lib  
